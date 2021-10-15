@@ -17,3 +17,10 @@ init<V>(value: Binding<V>...blabla)
   Why use constant when we need to show example? It returns Binding<Value>
   
     Constant: static func constant(_ value: Value) -> Binding<Value>
+
+15th Oct
+  
+Padding:
+  func padding(_ length: CGFloat) -> some View
+  
+  
