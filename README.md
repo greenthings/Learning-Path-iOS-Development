@@ -29,3 +29,9 @@ Slider:
   
   Rounded:
    func rounded() -> Double
+  
+17th Oct
+  
+  Text: 
+    Text("String")
+  
