@@ -35,3 +35,8 @@ Slider:
   Text: 
     Text("String")
   
+18th Oct
+  
+  abs():
+    func abs<T>(_ x: T) -> T where T : Comparable, T : SignedNumeric
+  
