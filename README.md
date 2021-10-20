@@ -40,3 +40,9 @@ Slider:
   abs():
     func abs<T>(_ x: T) -> T where T : Comparable, T : SignedNumeric
   
+19th Oct
+  
+  padding():
+    func padding(_ length: CGFloat) -> some View
+      Return Value A view that pads this view by the amount you specify. 
+      Oder is matter.
