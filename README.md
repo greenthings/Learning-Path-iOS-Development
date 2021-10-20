@@ -47,4 +47,4 @@ Slider:
   
       Return Value A view that pads this view by the amount you specify. 
   
-      Oder is matter.
+      Order is matter.
