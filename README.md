@@ -5,9 +5,7 @@ This is record of my learning path about iOS development
 
 <details>
     <summary>Raywenderlich_Making Bullseye App</summary>
-</details>
-
-14th Oct 
+    14th Oct 
 
 Slider: 
   init<V>(value: Binding<V>...blabla)
@@ -51,3 +49,6 @@ Slider:
       Return Value A view that pads this view by the amount you specify. 
   
       Order is matter.
+</details>
+
+
