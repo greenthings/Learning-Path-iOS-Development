@@ -72,6 +72,5 @@ Challenge: Sets
         
 Conclusion
         
-    </details>
 </details>
     
