@@ -59,12 +59,19 @@ Slider:
     <details>
     <summary>More Collections</summary>
 Introduction
+        
 Creating & Populating Dictionaries
+        
 Accessing & Working with Dictionaries
+        
 Challenge: Dictionaries
+        
 Working with Sets
+        
 Challenge: Sets
+        
 Conclusion
+        
     </details>
 </details>
     
