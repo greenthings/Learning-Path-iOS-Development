@@ -1,20 +1,10 @@
-### iOS_Learning_Path
+_### iOS_Learning_Path
 This is record of my learning path about iOS development
 
 <details>
     <summary>Swift Document</summary>
+</details>
 
-<details>
-    <summary>Swift Document</summary>
-More Collections
-Introduction
-Creating & Populating Dictionaries
-Accessing & Working with Dictionaries
-Challenge: Dictionaries
-Working with Sets
-Challenge: Sets
-Conclusion
-    <details>
 <details>
     <summary>Raywenderlich_Making Bullseye App</summary>
     14th Oct 
@@ -66,5 +56,15 @@ Slider:
 
 <details>
     <summary>Raywenderlich_Swift fundamentals</summary>
+    <details>
+    <summary>More Collections</summary>
+Introduction
+Creating & Populating Dictionaries
+Accessing & Working with Dictionaries
+Challenge: Dictionaries
+Working with Sets
+Challenge: Sets
+Conclusion
+    </details>
 </details>
     
