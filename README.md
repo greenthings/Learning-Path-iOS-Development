@@ -79,6 +79,7 @@ Conclusion
 </details>
     <details>
     <summary>Function and Types</summary>
+        
 Functions
         
 Closure
@@ -89,7 +90,7 @@ Properties & Methods
         
 Protocols & Inheritance        
         
-</details>
+
     
     </details>
     
