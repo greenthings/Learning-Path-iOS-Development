@@ -77,6 +77,19 @@ Challenge: Sets
 Conclusion
         
 </details>
+    <details>
+    <summary>Function and Types</summary>
+Functions
+        
+Closure
+        
+Enumerations
+        
+Properties & Methods
+        
+Protocols & Inheritance        
+        
+</details>
     
     </details>
     
