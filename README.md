@@ -92,5 +92,4 @@ Protocols & Inheritance
         
 
     
-    </details>
-    
+
