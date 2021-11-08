@@ -67,7 +67,6 @@ Slider:
     <summary>Raywenderlich_Swift fundamentals</summary>
     <details>
         
-        
     <summary>More Collections</summary>
 Introduction
         
