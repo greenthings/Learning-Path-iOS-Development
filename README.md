@@ -60,6 +60,12 @@ Slider:
       Return Value A view that pads this view by the amount you specify. 
   
       Order is matter.
+    
+23th Nov
+
+  onDelete(perform: ):
+  func onDelete(perform action: Optional<(IndexSet) -> Void>) -> some DynamicViewContent
+     Sets the deletion action for the dynamic view.    
 </details>
 
 
