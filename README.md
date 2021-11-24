@@ -3,14 +3,17 @@ This is record of my learning path about iOS development
 
 <details>
     <summary>Swift Document</summary>
-</details>
-    Structures and Classes 
+    
+    <summary>Structures and Classes</summary> 
     
     in coomon 
     properties, methods, subscripts, initializers, Be extended, conform to protocols
     
     class have aditional capabilities
-    Inheritance, Type Casting, Deinitializers, Automatic Reference Counting
+    Inheritance, Type Casting, Deinitializers, Automatic Reference Counting 
+    
+</details>
+    
 
         
 <details>
