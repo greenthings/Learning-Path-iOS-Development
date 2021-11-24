@@ -4,7 +4,7 @@ This is record of my learning path about iOS development
 <details>
     <summary>Swift Document</summary>
     
-    <summary>Structures and Classes</summary> 
+    Structures and Classes
     
     in coomon 
     properties, methods, subscripts, initializers, Be extended, conform to protocols
