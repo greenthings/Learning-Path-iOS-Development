@@ -32,11 +32,6 @@ https://developer.apple.com/tutorials/swiftui/
 </details>
     
 
-        
-<details>
-    <summary>Compiler</summary>
-</details>
-
 
 <details>
     <summary>Raywenderlich</summary>
