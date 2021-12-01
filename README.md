@@ -4,8 +4,6 @@ This is record of my learning path about iOS development
 
 ## Good Reference to start Swift
 
-On the road to learn SwiftUI
-
 https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c
 
 https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0
@@ -17,6 +15,8 @@ https://swiftui-lab.com/
 https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
 https://developer.apple.com/tutorials/swiftui/
+
+https://learnxinyminutes.com/
 
 <details>
     <summary>Swift Document</summary>
