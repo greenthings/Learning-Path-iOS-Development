@@ -1,20 +1,20 @@
 ## iOS_Learning_Path
-This is record of my learning path about iOS development
+learning path about iOS development
+
+1. Reading Swift Document 
+2. Watching Videos 
+3. Reading Article about iOS Development 
 
 | Type | Title | Resource |
 |:-----:|-------|:------:|
 | Video | Raywenderlich| https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0 |
 | Video | iOS & Swift - The Complete iOS App Development Bootcamp | https://www.udemy.com/course/ios-13-app-development-bootcamp/ |
+| Video | Standford iOS Lectures |https://www.youtube.com/watch?v=yOhyOpXvaec|
 |Document| SwiftUI Document| https://developer.apple.com/documentation/swiftui/ |
-|Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
+| Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
+| Web | SwiftUI | https://swiftui-lab.com/ |
+| Web | Learning Language | https://learnxinyminutes.com/ |
 
-## Good Reference to start Swift
-
-https://www.youtube.com/watch?v=yOhyOpXvaec
-
-https://swiftui-lab.com/
-
-https://learnxinyminutes.com/
 
 <details>
     <summary>Swift Document</summary>
