@@ -7,10 +7,10 @@ learning path about iOS development
 
 | Type | Title | Resource |
 |:-----:|-------|:------:|
+|Document| SwiftUI Document| https://developer.apple.com/documentation/swiftui/ |
 | Video | Raywenderlich| https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0 |
 | Video | iOS & Swift - The Complete iOS App Development Bootcamp | https://www.udemy.com/course/ios-13-app-development-bootcamp/ |
 | Video | Standford iOS Lectures |https://www.youtube.com/watch?v=yOhyOpXvaec|
-|Document| SwiftUI Document| https://developer.apple.com/documentation/swiftui/ |
 | Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
 | Web | SwiftUI | https://swiftui-lab.com/ |
 | Web | Learning Language | https://learnxinyminutes.com/ |
