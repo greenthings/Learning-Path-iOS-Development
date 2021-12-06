@@ -16,6 +16,7 @@ learning path about iOS development
 | Video | Standford iOS Lectures |https://www.youtube.com/watch?v=yOhyOpXvaec|
 | Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
 | Web | SwiftUI | https://swiftui-lab.com/ |
+| Web | Swift By Sundell | https://www.swiftbysundell.com/ |
 | Web | Learning Language | https://learnxinyminutes.com/ |
 
 
