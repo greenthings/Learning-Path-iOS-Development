@@ -5,7 +5,7 @@ learning path about iOS development
 2. Watching Videos 
 3. Reading Article about iOS Development 
 
-| Importance | Type | Title | Resource |
+| Importance | Type | Title | URL |
 |:-----:|:-----:|-------|:------:|
 |⭐️⭐️⭐️|Document| Swift Document| https://www.swift.org/ |
 |⭐️⭐️⭐️|Document| Document Archive| https://developer.apple.com/library/archive/navigation/ |
