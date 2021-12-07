@@ -20,7 +20,7 @@ learning path about iOS development
 |⭐️| Web | Learning Language | https://learnxinyminutes.com/ |
 |⭐️| Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
 
-🙂 Ref) Importance is only my personal opinion
+Ref) Importance Factor is only my personal opinion
 
 <details>
     <summary>Swift Document</summary>
