@@ -1,9 +1,17 @@
 ## iOS_Learning_Path
 learning path about iOS development
 
-1. Reading Swift Document 
-2. Watching Videos 
-3. Reading Article about iOS Development 
+Parallel
+
+1. Read Swift Document 
+2. Watch Videos 
+3. Read Article about iOS Development
+
+Main
+
+4. Make App that you want to make by changing what you learned a little bit. This help you get more advice from others and get a sense of accomplishment quickly.
+
+
 
 | Importance | Type | Title | URL |
 |:-----:|:-----:|-------|:------:|
