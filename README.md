@@ -14,7 +14,7 @@ Learning path about iOS development
 This help you get more advice from others and get a sense of accomplishment quickly.
 
 
-# Importanc Table
+# Importance Table
 
 | Importance | Type | Title | URL |
 |:-----:|:-----:|-------|:------:|
