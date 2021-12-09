@@ -1,13 +1,13 @@
 # iOS_Learning_Path
 Learning path about iOS development
 
-### Parallel
+## Parallel
 
 1. Read Swift Document 
 2. Watch Videos 
 3. Read Article about iOS Development
 
-### Main
+## Main
 
 4. Make App that you want to make by changing what you learned a little bit. 
 
