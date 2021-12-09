@@ -1,5 +1,5 @@
 # iOS_Learning_Path
-learning path about iOS development
+Learning path about iOS development
 
 ### Parallel
 
