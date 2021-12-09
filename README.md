@@ -9,9 +9,7 @@ Learning path about iOS development
 
 ### Main
 
-4. Make App 
-
-that you want to make by changing what you learned a little bit. This help you get more advice from others and get a sense of accomplishment quickly.
+4. Make App that you want to make by changing what you learned a little bit. This help you get more advice from others and get a sense of accomplishment quickly.
 
 
 # Importanc Table
