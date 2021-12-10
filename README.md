@@ -1,7 +1,7 @@
 # iOS_Learning_Path
 Learning path about iOS development
 
-## Parallel
+## Parallel Learning
 
 1. Read Swift Document 
 2. Watch Videos 
@@ -32,6 +32,8 @@ This help you get more advice from others and get a sense of accomplishment quic
 |⭐️| Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
 
 Ref) Importance factor is only my personal opinion
+
+# Function Table
 
 <details>
     <summary>Swift Document</summary>
