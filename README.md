@@ -1,5 +1,7 @@
-# iOS_Learning_Path
-Learning path about iOS development
+# iOS Development_Learning_Path
+---
+
+# Step 4
 
 ## Parallel Learning
 
