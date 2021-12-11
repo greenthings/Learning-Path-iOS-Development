@@ -32,6 +32,16 @@ This help you get more advice from others and get a sense of accomplishment quic
 
 Ref) Importance factor is only my personal opinion
 
+# Frontend
+
+List
+Grid 
+
+Navigation View
+Section
+
+# Backend
+
 # Function Table
 
 <details>
