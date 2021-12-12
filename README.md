@@ -1,10 +1,14 @@
 # Contents
 
-Step 4
-Importance Table
-Fuctions Table
-Front End
-Back End
+1. Step 4
+
+2. Importance Table
+
+3. Fuctions Table
+
+4. Front End
+
+5. Back End
 
 # Step 4
 
