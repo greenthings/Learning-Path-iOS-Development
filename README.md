@@ -1,3 +1,11 @@
+# Contents
+
+Step 4
+Importance Table
+Fuctions Table
+Front End
+Back End
+
 # Step 4
 
 ## Parallel Learning
@@ -32,7 +40,10 @@ This help you get more advice from others and get a sense of accomplishment quic
 
 Ref) Importance factor is only my personal opinion
 
-# Frontend
+
+# Function Table
+
+# Front End
 
 List
 
@@ -43,9 +54,7 @@ Navigation View
 
 Section
 
-# Backend
-
-# Function Table
+# Back End
 
 <details>
     <summary>Swift Document</summary>
