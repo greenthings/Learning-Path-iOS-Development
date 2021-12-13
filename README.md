@@ -2,13 +2,15 @@
 
 1. Step 4
 
-2. Importance Table
+2. Importance Resources Table
 
 3. Fuctions Table
 
 4. Front End
 
-5. Back End
+5. Animation
+
+6. Back End
 
 
 
@@ -28,7 +30,7 @@
 This help you get more advice from others and get a sense of accomplishment quickly.
 
 
-# Importance Table
+# Importance Resources Table
 
 | Importance | Type | Title | URL |
 |:-----:|:-----:|-------|:------:|
@@ -64,6 +66,12 @@ Navigation View
 Section
 
 Geometry Reader
+
+# Animation
+
+animation
+
+rotationEffect
 
 # Back End
 
