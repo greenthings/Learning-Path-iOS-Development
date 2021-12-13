@@ -52,6 +52,8 @@ Ref) Importance factor is only my personal opinion
 
 # Front End
 
+Stack
+
 List
 
 Grid 
@@ -60,6 +62,8 @@ Grid
 Navigation View
 
 Section
+
+Geometry Reader
 
 # Back End
 
