@@ -69,9 +69,15 @@ Geometry Reader
 
 # Animation
 
-animation
+Animation
 
-rotationEffect
+RotationEffect
+
+Single stage
+
+Multiple stages
+
+Interactive animations
 
 # Back End
 
