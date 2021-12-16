@@ -15,22 +15,22 @@
 
 
 
-# Step 4
+## Step 4
 
-## Parallel Learning
+### Parallel Learning
 
 1. Read Swift Document 
 2. Watch Videos 
 3. Read Article about iOS Development
 
-## Main
+### Main
 
 4. Make App that you want to make by changing what you learned a little bit. 
 
 This help you get more advice from others and get a sense of accomplishment quickly.
 
 
-# Importance Resources Table
+## Importance Resources Table
 
 | Importance | Type | Title | URL |
 |:-----:|:-----:|-------|:------:|
@@ -50,9 +50,9 @@ This help you get more advice from others and get a sense of accomplishment quic
 Ref) Importance factor is only my personal opinion
 
 
-# Function Table
+## Function Table
 
-# Front End
+## Front End
 
 Stack
 
@@ -67,7 +67,7 @@ Section
 
 Geometry Reader
 
-# Animation
+## Animation
 
 Animation
 
@@ -79,7 +79,7 @@ Multiple stages
 
 Interactive animations
 
-# Back End
+## Back End
 
 <details>
     <summary>Swift Document</summary>
