@@ -2,7 +2,7 @@
 
 1. Step 4
 
-2. Importance Resources Table
+2. Resources Table
 
 3. Fuctions Table
 
@@ -30,26 +30,23 @@
 This help you get more advice from others and get a sense of accomplishment quickly.
 
 
-## Importance Resources Table
+## Resources Table
 
-| Importance | Type | Title | URL |
-|:-----:|:-----:|-------|:------:|
-|⭐️⭐️⭐️|Document| Swift Document| https://www.swift.org/ |
-|⭐️⭐️⭐️|Document| Document Archive| https://developer.apple.com/library/archive/ |
-|⭐️⭐️⭐️|Document| Apple Developer Documentation| https://developer.apple.com/documentation/ |
-|⭐️⭐️⭐️|Document| Human Interface Guidelines | https://developer.apple.com/design/human-interface-guidelines/ |
-|⭐️⭐️| Video | Raywenderlich| https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0 |
-|⭐️⭐️| Video | iOS & Swift - The Complete iOS App Development Bootcamp | https://www.udemy.com/course/ios-13-app-development-bootcamp/ |
-|⭐️| Video | Standford iOS Lectures |https://www.youtube.com/watch?v=yOhyOpXvaec|
-|⭐️⭐️| Web | SwiftUI | https://swiftui-lab.com/ |
-|⭐️⭐️| Web | Swift By Sundell | https://www.swiftbysundell.com/ |
-|⭐️⭐️| Web | NSHipster | https://nshipster.com/ |
-|⭐️⭐️| Web | Swift Forums | https://forums.swift.org/ |
-|⭐️| Web | Learning Language | https://learnxinyminutes.com/ |
-|⭐️⭐️| Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
-
-Ref) Importance factor is only my personal opinion
-
+| Type | Title | URL |
+|:-----:|-------|:------:|
+|Document| Swift Document| https://www.swift.org/ |
+|Document| Document Archive| https://developer.apple.com/library/archive/ |
+|Document| Apple Developer Documentation| https://developer.apple.com/documentation/ |
+|Document| Human Interface Guidelines | https://developer.apple.com/design/human-interface-guidelines/ |
+| Video | Raywenderlich| https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0 |
+| Video | iOS & Swift - The Complete iOS App Development Bootcamp | https://www.udemy.com/course/ios-13-app-development-bootcamp/ |
+| Video | Standford iOS Lectures |https://www.youtube.com/watch?v=yOhyOpXvaec|
+| Web | SwiftUI | https://swiftui-lab.com/ |
+| Web | Swift By Sundell | https://www.swiftbysundell.com/ |
+| Web | NSHipster | https://nshipster.com/ |
+| Web | Swift Forums | https://forums.swift.org/ |
+| Web | Learning Language | https://learnxinyminutes.com/ |
+| Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
 
 ## Function Table
 
