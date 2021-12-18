@@ -35,7 +35,7 @@ This help you get more advice from others and get a sense of accomplishment quic
 | Importance | Type | Title | URL |
 |:-----:|:-----:|-------|:------:|
 |⭐️⭐️⭐️|Document| Swift Document| https://www.swift.org/ |
-|⭐️⭐️⭐️|Document| Document Archive| https://developer.apple.com/library/archive/navigation/ |
+|⭐️⭐️⭐️|Document| Document Archive| https://developer.apple.com/library/archive/ |
 |⭐️⭐️⭐️|Document| Apple Developer Documentation| https://developer.apple.com/documentation/ |
 |⭐️⭐️⭐️|Document| Human Interface Guidelines | https://developer.apple.com/design/human-interface-guidelines/ |
 |⭐️⭐️⭐️| Video | Raywenderlich| https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0 |
@@ -44,6 +44,7 @@ This help you get more advice from others and get a sense of accomplishment quic
 |⭐️| Web | SwiftUI | https://swiftui-lab.com/ |
 |⭐️⭐️| Web | Swift By Sundell | https://www.swiftbysundell.com/ |
 |⭐️⭐️| Web | NSHipster | https://nshipster.com/ |
+|⭐️⭐️| Web | Swift Forums | https://forums.swift.org/ |
 |⭐️| Web | Learning Language | https://learnxinyminutes.com/ |
 |⭐️| Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
 
