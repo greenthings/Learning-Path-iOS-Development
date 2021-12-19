@@ -41,7 +41,7 @@ This help you get more advice from others and get a sense of accomplishment quic
 | Video | Raywenderlich| https://www.raywenderlich.com/books/combine-asynchronous-programming-with-swift/v2.0 |
 | Video | iOS & Swift - The Complete iOS App Development Bootcamp | https://www.udemy.com/course/ios-13-app-development-bootcamp/ |
 | Video | Standford iOS Lectures |https://www.youtube.com/watch?v=yOhyOpXvaec|
-| Web | SwiftUI | https://swiftui-lab.com/ |
+| Web | SwiftUI Lab | https://swiftui-lab.com/ |
 | Web | Swift By Sundell | https://www.swiftbysundell.com/ |
 | Web | NSHipster | https://nshipster.com/ |
 | Web | Swift Forums | https://forums.swift.org/ |
