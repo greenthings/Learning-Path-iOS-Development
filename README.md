@@ -17,14 +17,9 @@
 
 ## Step 4
 
-### Parallel Learning
-
 1. Read Swift Document 
 2. Watch Videos 
 3. Read Article about iOS Development
-
-### Main
-
 4. Make App that you want to make by changing what you learned a little bit. 
 
 This help you get more advice from others and get a sense of accomplishment quickly.
@@ -84,6 +79,8 @@ Files & Data
 Json 
 
 Property Lists
+
+Core Data
 
 
 
