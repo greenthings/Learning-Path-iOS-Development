@@ -22,8 +22,7 @@
 3. Read Article about iOS Development
 4. Study Open Sourece iOS App
 5. Make App that you want to make by changing what you learned a little bit. 
-
-This help you get more advice from others and get a sense of accomplishment quickly.
+   (This help you get more advice from others and get a sense of accomplishment quickly.)
 
 
 ## Resources Table
