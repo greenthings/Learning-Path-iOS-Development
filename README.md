@@ -15,12 +15,13 @@
 
 
 
-## Step 4
+## Step 5
 
 1. Read Swift Document 
 2. Watch Videos 
 3. Read Article about iOS Development
-4. Make App that you want to make by changing what you learned a little bit. 
+4. Study Open Sourece iOS App
+5. Make App that you want to make by changing what you learned a little bit. 
 
 This help you get more advice from others and get a sense of accomplishment quickly.
 
