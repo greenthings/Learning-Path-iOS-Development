@@ -1,6 +1,6 @@
 # Contents
 
-1. Step 4
+1. Step 5
 
 2. Resources Table
 
@@ -42,6 +42,7 @@ This help you get more advice from others and get a sense of accomplishment quic
 | Web | NSHipster | https://nshipster.com/ |
 | Web | Swift Forums | https://forums.swift.org/ |
 | Web | Learning Language | https://learnxinyminutes.com/ |
+| Web | iOS Open-Source App | https://github.com/dkhamsing/open-source-ios-apps |
 | Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
 
 ## Function Table
