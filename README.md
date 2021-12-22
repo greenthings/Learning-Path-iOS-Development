@@ -4,18 +4,16 @@
 
 2. Resources Table
 
-3. Fuctions Table
+3. Front End
 
-4. Front End
+4. Animation
 
-5. Animation
-
-6. Back End
+5. Back End
 
 
 
 
-## Step 5
+## 1. Step 5
 
 1. Read Swift Document 
 2. Watch Videos 
@@ -25,7 +23,7 @@
    (This help you get more advice from others and get a sense of accomplishment quickly.)
 
 
-## Resources Table
+## 2. Resources Table
 
 | Type | Title | URL |
 |:-----:|-------|:------:|
@@ -44,9 +42,8 @@
 | Web | iOS Open-Source App | https://github.com/dkhamsing/open-source-ios-apps |
 | Article | On the road to learn swiftUI | https://karinprater.medium.com/on-the-road-to-learn-swiftui-8b26b528199c |
 
-## Function Table
 
-## Front End
+## 3. Front End
 
 Stack
 
@@ -54,14 +51,13 @@ List
 
 Grid 
 
-
 Navigation View
 
 Section
 
 Geometry Reader
 
-## Animation
+## 4. Animation
 
 Animation
 
@@ -73,9 +69,11 @@ Multiple stages
 
 Interactive animations
 
-## Back End
+## 5. Back End
 
 Files & Data
+
+User Defalut 
 
 Json 
 
