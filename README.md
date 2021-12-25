@@ -91,6 +91,19 @@ Concurrency
 
 ㄴ Queues
 
+Priorities and Cache Policies
+
+URLSession
+
+ㄴ URLSessionDataTask
+
+ㄴ URLSessionUploadTask
+
+ㄴ URLSessionWebSocketTask
+
+ㄴ URLSessionStreamTask
+
+ㄴ URLSessionDownloadTask
 
 
 
