@@ -105,6 +105,8 @@ URLSession
 
 ㄴ URLSessionDownloadTask
 
+URLSession download task did write data
+
 
 
 <details>
