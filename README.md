@@ -91,7 +91,9 @@ Concurrency
 
 ㄴ Queues
 
+
 Priorities and Cache Policies
+
 
 URLSession
 
@@ -105,7 +107,14 @@ URLSession
 
 ㄴ URLSessionDownloadTask
 
+
 URLSession download task did write data
+
+Network Link Conditioner
+
+Vapor
+
+
 
 
 
