@@ -128,9 +128,9 @@ Handle Error
 
 ㄴ description( network, parsing, unknown)
 
-Authentication
+Authentication and URLSession
 
-ATS
+ATS(Application Transport Security
 
 Cookies
 
