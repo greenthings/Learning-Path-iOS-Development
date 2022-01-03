@@ -133,6 +133,12 @@ Authentication and URLSession
 ATS(Application Transport Security
 
 Cookies
+ 
+ㄴ allHeaderFields 
+
+ㄴ HTTPCookie.cookies
+
+ㄴ HTTPCookieStorage
 
 
         
