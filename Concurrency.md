@@ -29,6 +29,7 @@ It is a useful tool, such as being able to specify input, output, and helper met
 The Dispatch Framework was created by Apple as the concept of Grand Central Dispatch. Dispatch is Execute code concurrently on multicore hardware by submitting work to dispatch queues managed by the system.
 
 Concurrent VS serial
+
 Synchronous dipatch queues VS Asychronous dipatch queues
 
 There are DispatchQueue.main and DipatchQueue.global(qos: ...) in GCD Queues. The Main queue is used so often for user interface updates. and this is serial.
