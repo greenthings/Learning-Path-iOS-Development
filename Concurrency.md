@@ -14,7 +14,7 @@ By structuring your app so some tasks can safely run at the same time.
 
 # what is GCD?
 
-Grand Cetral Dispatch, for simple tasks
+Grand Cetral Dispatch, for simple tasks.
 
 # what is Queue?
 
@@ -22,7 +22,7 @@ First in, First out. such as a waiting line to ride a roller coaster.
 
 # what is the Operation?
 
-It is a useful tool, such as being able to specify input, output, and helper methods. Additionally, the act of canceling. and for complex tasks.
+It is a useful tool for complex tasks to specify input, output, and helper methods. Additionally, the act of canceling.
 
 # Contents
 
