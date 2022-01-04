@@ -87,7 +87,7 @@ Concurrency
 
 ㄴ POSIX Threads
 
-ㄴ Grand Central Dispatch
+ㄴ[ Grand Central Dispatch](https://github.com/greenthings/Learning-Paths-iOS-Development/blob/main/GCD)
 
 ㄴ Queues
 
