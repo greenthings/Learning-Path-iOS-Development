@@ -81,15 +81,15 @@ Property Lists
 
 Core Data
 
-Concurrency
+[Concurrency](https://github.com/greenthings/Learning-Paths-iOS-Development/blob/main/Concurrency.md)
 
 ㄴ NSThread Class
 
 ㄴ POSIX Threads
 
-ㄴ[Grand Central Dispatch](https://github.com/greenthings/Learning-Paths-iOS-Development/blob/main/GCD.md)
+ㄴ [Grand Central Dispatch](https://github.com/greenthings/Learning-Paths-iOS-Development/blob/main/Concurrency.md)
 
-ㄴ Queues
+ㄴ [Queues](https://github.com/greenthings/Learning-Paths-iOS-Development/blob/main/Concurrency.md)
 
 
 Priorities and Cache Policies
