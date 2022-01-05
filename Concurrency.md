@@ -30,7 +30,7 @@ The Dispatch Framework was created by Apple as the concept of Grand Central Disp
 
 Concurrent VS serial
 
-Synchronous dipatch queues VS Asychronous dipatch queues
+Synchronous VS Asychronous 
 
 There are DispatchQueue.main and DipatchQueue.global(qos: ...) in GCD Queues. The Main queue is used so often for user interface updates. and this is serial.
 The other global queues are concurrent they can have more than one tread. qos means quality of service, which has a total of six types.
