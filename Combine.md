@@ -12,7 +12,7 @@ Subscriber
 
 "Just"
 
-"assign(to:on:)"
+"assign(to: on:)"
 
 "PassthroughSubject"
 
