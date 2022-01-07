@@ -5,17 +5,26 @@ It provides a declartive approach for how your app processes events. This has co
 # Contents
 
 NotificationCenter
+
 Publisher
+
 Subscriber
 
 "Just"
+
 "assign(to:on:)"
+
 "PassthroughSubject"
+
 "CurrentValueSubject"
+
 "Type erasure"
 
 
 .send
+
 .sink
+
 .store
+
 .post
