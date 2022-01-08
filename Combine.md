@@ -10,6 +10,11 @@ Publisher
 
 Subscriber
 
+Transforming 
+
+Filtering
+
+
 "Just"
 
 "assign(to: on:)"
@@ -19,6 +24,8 @@ Subscriber
 "CurrentValueSubject"
 
 "Type erasure"
+
+
 
 
 .send
