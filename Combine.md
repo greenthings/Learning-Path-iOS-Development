@@ -28,10 +28,10 @@ Filtering
 
 
 
-.send
+.send()
 
-.sink
+.sink()
 
-.store
+.store()
 
-.post
+.post()
