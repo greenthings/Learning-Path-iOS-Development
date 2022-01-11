@@ -37,17 +37,17 @@ Filtering
 .post()
 
 
-.collect
+.collect()
 
-.map
+.map()
 
 .replaceNil(with:)
 
 .replaceEnmpty(with:)
 
-.scan
+.scan()
 
-.flatMap
+.flatMap()
 
 
 .first(where:)
