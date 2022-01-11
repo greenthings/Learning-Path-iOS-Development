@@ -26,7 +26,7 @@ Filtering
 "Type erasure"
 
 
-
+# Operators
 
 .send()
 
@@ -35,3 +35,26 @@ Filtering
 .store()
 
 .post()
+
+
+.collect
+
+.map
+
+.replaceNil(with:)
+
+.replaceEnmpty(with:)
+
+.scan
+
+.flatMap
+
+
+.first(where:)
+
+.last(where:)
+
+.prefix()
+
+.drop(while:)
+
