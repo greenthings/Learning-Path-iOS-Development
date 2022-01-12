@@ -58,3 +58,9 @@ Filtering
 
 .drop(while:)
 
+## Combining Operators
+
+.prepend
+
+.append
+
