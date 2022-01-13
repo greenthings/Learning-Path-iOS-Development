@@ -60,7 +60,15 @@ Filtering
 
 ## Combining Operators
 
-.prepend
+.prepend()
 
-.append
+.append()
+
+.switchToLatest()
+
+.merger(with:)
+
+.combineLatest()
+
+.zip()
 
