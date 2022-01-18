@@ -72,3 +72,13 @@ Filtering
 
 .zip()
 
+
+
+.dataTaskPublisher()
+
+## Map Error
+
+.tryMap{} 
+
+.map{}
+
