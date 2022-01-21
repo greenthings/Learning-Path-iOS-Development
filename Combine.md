@@ -89,3 +89,4 @@ Filtering
 
 @Published
 
+@ObservedObject
