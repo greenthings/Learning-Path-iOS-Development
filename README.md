@@ -13,6 +13,8 @@
 
 5. Back End
 
+6. Debugging
+
 
 
 
@@ -146,6 +148,21 @@ Cookies
 ㄴ HTTPCookieStorage
 
 AsyncSequence
+
+
+
+## 6. Debugging 
+
+Breakpoints
+
+ㄴ Step in 
+
+ㄴ Step out
+
+ㄴ Step over
+
+ㄴ p, po c 
+
 
 
         
